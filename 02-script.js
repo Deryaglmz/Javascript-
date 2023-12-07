@@ -38,5 +38,5 @@ let yas;
 
 yas;
 
-console.log(yas);
-console.log(typeof yas);
+console.log(yas);       
+console.log(typeof yas);  
